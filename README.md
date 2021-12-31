@@ -1,7 +1,7 @@
 # Series-API-REACT-
 
 <p align="center">
-  <img src="https://i.imgur.com/guZPRG2.png" width="500">
+  <img src="https://i.imgur.com/guZPRG2.png" width="800">
   <h3 align="center">Projeto de Séries, utilizando a API : https://api.themoviedb.org/</h3>
 </p>
 <p align="center"> 
